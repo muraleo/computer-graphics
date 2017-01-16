@@ -1,0 +1,9 @@
+Student Name:Yingnan Li
+
+Email:yl3651@nyu.edu
+NetID:yl3651
+
+
+Which files did you change?
+
+I changed asst7.cpp and geometry.h and mesh.h and mark the part I modified with // -----------------change 

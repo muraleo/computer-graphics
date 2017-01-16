@@ -1,0 +1,7 @@
+Student Name:Yingnan Li
+Email:yl3651@nyu.edu
+NetID:yl3651
+
+Which files did you change?
+I changed asst2.cpp and rigtform.h and mark the part I modified with // -----------------change----------------- 
+And I just finish the task 1. I think I need to study harder.

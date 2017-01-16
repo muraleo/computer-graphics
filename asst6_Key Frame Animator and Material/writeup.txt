@@ -1,0 +1,6 @@
+Student Name:Yingnan Li
+Email:yl3651@nyu.edu
+NetID:yl3651
+
+Which files did you change?
+I changed asst6.cpp and quat.h and cvec.h and rigtform.h and mark the part I modified with // -----------------change----------------- 

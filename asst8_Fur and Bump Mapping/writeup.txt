@@ -1,0 +1,10 @@
+Student Name:Yingnan Li
+
+Email:yl3651@nyu.edu
+NetID:yl3651
+
+
+Which files did you change?
+
+I changed asst8.cpp, geometry.h, mesh.h, cvec.h(I change the normorize() function) 
+and normal-gl2.fshader and mark the part I modified with // - - - - - - change

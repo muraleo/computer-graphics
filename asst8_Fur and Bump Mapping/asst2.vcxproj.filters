@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{88ac872a-528b-4187-b529-4fa77d4f4d63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ppm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glsupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="picker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scenegraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderstates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asst8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ppm.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glsupport.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cvec.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix4.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geometrymaker.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arcball.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="picker.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quat.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rigtform.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scenegraph.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sgutils.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asstcommon.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geometry.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="material.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="renderstates.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="uniforms.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="out.ppm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Fieldstone.ppm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="FieldstoneNormal.ppm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shaders\normal-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\normal-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\diffuse-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\diffuse-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\pick-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\pick-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\solid-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\solid-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\normal-gl2.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\basic-gl2.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\basic-gl3.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\normal-gl3.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="cube.mesh">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mesh.interface">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shaders\specular-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\specular-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="bunny.mesh">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shell.ppm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shaders\bunny-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\bunny-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\bunny-shell-gl2.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\bunny-shell-gl3.fshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\bunny-shell-gl2.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\bunny-shell-gl3.vshader">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

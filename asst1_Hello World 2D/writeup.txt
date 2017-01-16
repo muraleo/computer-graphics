@@ -1,0 +1,8 @@
+Student Name:YINGNAN LI
+Email:yl3651@nyu.edu
+NetID:yl3651
+
+Which files did you change?
+I changed asst1.cpp, asst1-gl2.vshader and asst1-gl2.fshader.
+
+The part I changed has been marked with “//change” in the code. 
